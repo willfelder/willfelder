@@ -1,7 +1,7 @@
 ### Hi there! 😃
 
 I am a front-end developer passionate about technology, and as a self-taught, I love to improve my skills daily.
-In my free time I like to learn languages (🇩🇪 🇺🇸 🇷🇺), watch football, documentaries, play guitar and keyboard.
+In my free time I like to learn languages (🇩🇪 🇺🇸), watch football, documentaries, play guitar and keyboard.
 
 ##
 
