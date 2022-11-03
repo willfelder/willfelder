@@ -4,7 +4,7 @@
 
 - I am a front-end developer.
 - Studied System Analysis and Development at Universidade Paulista (UNIP).
-- I am interested in JavaScript, React, HTML, CSS, Python, Nodejs, Docker, API, AWSm MongoDB and MySQL.
+- I am interested in JavaScript, React, HTML, CSS, Python, Nodejs, Docker, API, AWS, MongoDB and MySQL.
 - In my spare time I like to play football and flight simulator.
 
 ##
