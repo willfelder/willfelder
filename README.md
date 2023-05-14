@@ -3,7 +3,7 @@
 ### About me
 
 - I am a full-stack developer.
-- Studied System Analysis and Development at Universidade Paulista (UNIP).
+- System Analysis and Development at Universidade Paulista (UNIP).
 - I am interested in C#, .NET, JavaScript, React, HTML, CSS, SQL, AWS and MongoDB.
 - Passionate about flight simulator and astronomy.
 
