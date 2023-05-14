@@ -2,10 +2,10 @@
 
 ### About me
 
-- I am a front-end developer.
+- I am a full-stack developer.
 - Studied System Analysis and Development at Universidade Paulista (UNIP).
 - I am interested in C#, .NET, JavaScript, React, HTML, CSS, SQL, AWS and MongoDB.
-- In my spare time I like to play football and flight simulator.
+- Passionate about flight simulator and astronomy.
 
 ##
 
